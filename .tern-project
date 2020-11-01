@@ -1,0 +1,24 @@
+{
+    "ecmascript": 6,
+    "libs": [
+        "browser",
+        "ecmascript",
+        "jquery",
+        "underscore",
+         "ecma5"
+
+    ],
+    "dontLoad": [
+        "node_modules/**"
+    ],
+    "plugins": {
+        "node": {},
+        "es_modules": {},
+        "webpack": {},
+        "requirejs": {},
+        "angular":{},
+        "component": {}
+
+
+    }
+}

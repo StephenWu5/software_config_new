@@ -1,0 +1,114 @@
+﻿{
+    "ver":"5.0",
+    "tag":"appnetctrl",
+    "data":[
+        {
+            "procname":"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\ACC\\Creative Cloud.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\program files (x86)\\common files\\tencent\\qqdownload\\135\\tencentdl.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\msoia.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\NVIDIA Corporation\\NvTelemetry\\NvTelemetryContainer.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\SecoClient\\serviceclient\\SecoClientCS.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMAutoClean.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMCheckNetwork.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMEventLogReporter.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQPCPatch.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQPCRealTimeSpeedup.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQPCRTP.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQPCSoftTrayTips.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQPCTray.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\TpkUpdate.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYConfig.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYUserCenter.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\CCleaner\\CCleaner64.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\CCleaner\\CCUpdate.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Ditto\\Ditto.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\FluxSoftware\\Flux\\flux.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\AndroidServer\\1.0.0.588\\AndroidServer.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\svchost.exe",
+            "block":true
+        },
+        {
+            "procname":"E:\\00application\\天若OCR文字识别高级解锁版-fpwsq\\OCR文字识别高级完美版.exe",
+            "block":false
+        }
+    ]
+}

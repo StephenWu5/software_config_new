@@ -1,0 +1,32 @@
+{
+"update_url":"http://clients2.google.com/service/update2/crx",
+
+  "name": "Tab Number",
+
+  "version" : "2",
+
+  "permissions": [
+
+    "tabs", "http://*/*", "https://*/*"
+
+  ],
+
+  "icons": {
+
+    "16": "tabnum.png"
+
+  },
+
+  "manifest_version" : 2,
+
+  "background": {
+
+    "scripts": ["eventpage.js"],
+
+    "persistent": false
+
+  }
+
+}
+
+
