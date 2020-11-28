@@ -106,7 +106,6 @@ language messages zh_CN.utf-8          "设置提示信息语言
 "set history=500                 "设定历史记录条数
 set guifont=Courier\ New:h16    "英文字体及大小 
 set bsdir=buffer
-set autochdir
 "set enc=utf-8
 "set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 set termencoding=utf-8
@@ -247,8 +246,11 @@ function! QfMakeConv()
    endfor
    call setqflist(qflist)
 endfunction
-
 au QuickfixCmdPost make call QfMakeConv()
+
+"ctags设置【快速跳转到定义】
+set tags=../tags
+set autochdir
 """"""""""""""""""""""""""""""""""""package settings end"""""""""""""""
 
 
@@ -284,7 +286,6 @@ imap <M-Down> <ESC><c-w>j
 map <F4> :TagbarToggle<CR>
 " autofocus on Tagbar open
 let g:tagbar_autofocus = 1
-
 
 
 " Ignore files on NERDTree （文件树，留着）
