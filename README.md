@@ -21,7 +21,7 @@ settings-webstorm66.jar 是webstorm的配置，用的少；
 
 火绒联网控制配置.json 如名字一样是联网控制；
 
-markdown-to-richtext 是markdown转富文本的web在线工具
+markdown-to-richtext 是markdown转富文本的web在线工具，已独立出去
 
 xmind8模版1  xmind8的模版文件  主要是解决默认字体的大小问题。
 

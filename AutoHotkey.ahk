@@ -21,7 +21,8 @@
 #f::Run https://risingstars.js.org/2018/zh/#section-react
 ;#n::Run https://www.npmjs.com/ 去掉吧
 #n::Run http://nav.web-hub.cn/ 
-#m::Run http://blog.didispace.com/tools/online-markdown/
+;#m::Run http://blog.didispace.com/tools/online-markdown/
+#m::Run file:///E:/06project/markdown-to-richtext/docs/index.html
 #y::Run https://mail.qq.com
 #q::Run https://www.wunderlist.com
 !z::Run https://i.zhaopin.com/
