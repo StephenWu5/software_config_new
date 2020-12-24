@@ -31,7 +31,9 @@
 ;!j::Run http://juejin.im/
 #j::Run http://www.jianshu.com/
 #c::Run https://home.cnblogs.com/u/StephenWu5/
-!7::Run http://www.net767.com/ 
+!7::Run http://www.net767.com/
+;新建txt 待办事项
+#t::Run, Notepad  C:\Users\Administrator\Desktop\待办事项.txt
 
 ;-------------------------------------------------------------------------
 
