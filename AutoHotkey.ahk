@@ -8,7 +8,8 @@
 #x::Run http://blog.sina.com.cn/u/2790806052/
 !v::Run http://vimium.github.io/
 #v::Run https://vim.ink
-#w::Run https://stephenwu5home.wordpress.com/wp-admin/edit.php
+;#w::Run https://stephenwu5home.wordpress.com/wp-admin/edit.php
+#w::Run https://stephenwu5home.wordpress.com
 #a::Run http://localhost:8080/
 #z::Run https://www.zhihu.com/
 ;!k::Run https://wyagd001.github.io/zh-cn/docs/Hotkeys.htm

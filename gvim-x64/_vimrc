@@ -104,7 +104,7 @@ syntax on
 set langmenu=zh_CN.UTF-8                 "设置菜单语言
 language messages zh_CN.utf-8          "设置提示信息语言
 "set history=500                 "设定历史记录条数
-set guifont=Courier\ New:h16    "英文字体及大小 
+set guifont=Courier\ New:h18   "英文字体及大小 
 set bsdir=buffer
 "set enc=utf-8
 "set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
