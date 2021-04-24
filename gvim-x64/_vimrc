@@ -104,7 +104,7 @@ syntax on
 set langmenu=zh_CN.UTF-8                 "设置菜单语言
 language messages zh_CN.utf-8          "设置提示信息语言
 "set history=500                 "设定历史记录条数
-set guifont=Courier\ New:h18   "英文字体及大小 
+set guifont=Courier\ New:h21  "英文字体及大小 
 set bsdir=buffer
 "set enc=utf-8
 "set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
@@ -154,11 +154,6 @@ set guitablabel=%N:%M%t" Show tab numbers
 set nocompatible              " be iMproved, required
 
 set ruler
-set shiftwidth=4
-set expandtab
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
 "set noautoindent
 set clipboard+=unnamed
 "颜色主题设置
@@ -200,8 +195,9 @@ set completeopt=longest,menu    "打开文件类型检测, 加了这句才可以
 "set cursorline                  "突出显示当前行
 set cindent                     "C语言格式缩进
 set smartindent                 "智能缩进
-set tabstop=4                   "设定tab宽度为4个字符
-set shiftwidth=4                "设定自动缩进为4个字符
+set tabstop=2                   "设定tab宽度为4个字符
+set shiftwidth=2                "设定自动缩进为4个字符
+set softtabstop=2
 set expandtab                   "用space替代tab的输入
 set nobackup                    "无备份
 "set noswapfile                  "无交换文件,注意，错误退出后无法恢复
@@ -384,7 +380,7 @@ command! -bang -nargs=? -complete=dir Files
 
 
 "自动启用插件rainbow，如果使用命令:RainbowToggle启用插件，则设为0
-let g:rainbow_active = 1
+let g:rainbow_active = 0
 "let g:rainbow_conf = {
 "	\	'guifgs': ['royalblue3', 'darkorange3', 'seagreen3', 'firebrick'],
 "	\	'ctermfgs': ['lightblue', 'lightyellow', 'lightcyan', 'lightmagenta'],
