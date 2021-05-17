@@ -20,6 +20,15 @@
 		},
 		{
 			"path": "..\\vue-admin-beautiful-vue3"
+		},
+		{
+			"path": "..\\nodejs_simple-master"
+		},
+		{
+			"path": "..\\vue-vue3.0-heimamovie"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
