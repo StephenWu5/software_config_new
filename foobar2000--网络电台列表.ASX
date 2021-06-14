@@ -1,0 +1,24 @@
+<Asx Version = "3.0" >
+<Param Name = "AllowShuffle" Value = "yes" /><Param Name = "Generator" Value = "MzMusic" /><Param Name = "Last Entry" Value = "-1" /><Param Name = "Temporary" Value = "True" />
+<Title > 在线电台</Title>
+<Entry>
+<Title > 化州电台</Title><Ref href = "https://lhttp.qingting.fm/live/15318689/64k.mp3?app_id=web&ts=60c6ed07&sign=4570d505e7f9907002b6dfecaa88c38c"/>
+</Entry>
+<Entry>
+<Title > 中国之声</Title><Ref href = "https://lhttp.qingting.fm/live/386/64k.mp3?app_id=web&ts=60c6ed4e&sign=155b5f95a42dda1dfde93aca173ab483"/>
+</Entry>
+<Entry>
+<Title > 经济之声</Title><Ref href = "https://lhttp.qingting.fm/live/387/64k.mp3?app_id=web&ts=60c6ed82&sign=9a9cd5239f6cba3f6abe4e026a751f85"/>
+</Entry>
+<Entry>
+<Title > 广东股市广播</Title><Ref href = "https://lhttp.qingting.fm/live/4847/64k.mp3?app_id=web&ts=60c6ef2f&sign=c13d914579900c2f80aa2dc08f9eb493"/>
+</Entry>
+<Entry>
+<Title > 广东珠江经济电台</Title><Ref href = "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web&ts=60c6f173&sign=6a0a23fe24739c6a21f8b941959081ce"/>
+</Entry>
+<Entry>
+<Title > 第一财经广播</Title><Ref href = "https://lhttp.qingting.fm/live/276/64k.mp3?app_id=web&ts=60c6f196&sign=8cf9fe12583d27223233cc7978f5784f"/>
+</Entry>
+</Asx>
+
+

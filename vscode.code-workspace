@@ -7,12 +7,6 @@
 			"path": "..\\..\\02ducument\\简书稿子"
 		},
 		{
-			"path": "..\\webDemo"
-		},
-		{
-			"path": "..\\wande\\djk_www"
-		},
-		{
 			"path": "..\\vue-element-admin"
 		},
 		{
@@ -29,6 +23,18 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\React-Express-Blog-Demo-master"
+		},
+		{
+			"path": "..\\my-blog-admin"
+		},
+		{
+			"path": "..\\my-blog-pc"
+		},
+		{
+			"path": "..\\my-blog-node"
 		}
 	],
 	"settings": {}
