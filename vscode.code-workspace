@@ -35,6 +35,12 @@
 		},
 		{
 			"path": "..\\my-blog-node"
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Documents\\myMindFile"
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Documents\\myDrawFile"
 		}
 	],
 	"settings": {}

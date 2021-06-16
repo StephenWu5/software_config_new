@@ -3,12 +3,188 @@
     "tag":"appnetctrl",
     "data":[
         {
+            "procname":"C:\\eastmoney\\swc8\\mainfree.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\eastmoney\\swc8\\stockway.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Foxmail 7.2\\Foxmail.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\new_tdx\\TdxW.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\360\\360AP\\360AP.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\360\\360Safe85897812\\360Safe\\SoftMgr\\360speedld.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\360\\360Safe85897812\\360zip\\360zipUpdate.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\91App\\91Reader\\91Reader.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\ABBYY FineReader 14\\ScreenshotReader.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\ABBYY FineReader 15\\FineExec.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\ABBYY FineReader 15\\FineReader.exe",
+            "block":false
+        },
+        {
             "procname":"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\ACC\\Creative Cloud.exe",
             "block":true
         },
         {
+            "procname":"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\CCXProcess\\libs\\node.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Adobe\\Adobe Creative Cloud\\CoreSync\\CoreSync.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Amazon\\Kindle\\Kindle.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Calibre2\\calibre.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\ADS\\Adobe Desktop Service.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\ElevationManager\\AdobeServiceInstaller.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AdobeGCClient.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AGSService.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Apple\\Apple Application Support\\APSDaemon.exe",
+            "block":false
+        },
+        {
             "procname":"C:\\program files (x86)\\common files\\tencent\\qqdownload\\135\\tencentdl.exe",
             "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Tencent\\QQProtect\\Bin\\QQProtect.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Common Files\\Tencent\\QQProtect\\Bin\\QQProtectUpd.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\DAUM\\PotPlayer\\PotPlayerMini.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\EagleGet\\EagleGet.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\EagleGet\\net_updater32.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\foobar2000\\foobar2000.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Foxit Software\\Foxit Phantom\\FoxitPhantom.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\FoxitProtect.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\FoxitReader.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Google\\Picasa3\\Picasa3.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\i4Tools7\\i4Tools.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\i4Tools7\\libXunlei\\download\\MiniThunderPlatform.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Internet Download Manager\\IDMan.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Internet Explorer\\IEXPLORE.EXE",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\IQIYI Video\\LStyle\\7.2.103.1388\\QiyiService.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\IQIYI Video\\LStyle\\7.2.103.1388\\QyFragment.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\IQIYI Video\\LStyle\\7.2.103.1388\\QyKernel.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Listen1\\Listen1.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\LuDaShi\\ComputerZTinyTray.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\program files (x86)\\ludashi\\Utils\\ComputerZ14.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Meitu\\XiuXiu\\MessageBox.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Meitu\\XiuXiu\\XiuXiu.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\EXCEL.EXE",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\lync.exe",
+            "block":false
         },
         {
             "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\msoia.exe",
@@ -19,11 +195,59 @@
             "block":false
         },
         {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\sdxhelper.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\VISIO.EXE",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\WINWORD.EXE",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft Office\\root\\VFS\\ProgramFilesCommonX86\\Microsoft Shared\\Office16\\osfinstaller.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Mubu\\幕布.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Neat Download Manager\\NeatDM.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+            "block":true
+        },
+        {
             "procname":"C:\\Program Files (x86)\\NVIDIA Corporation\\NvTelemetry\\NvTelemetryContainer.exe",
             "block":true
         },
         {
+            "procname":"C:\\Program Files (x86)\\NVIDIA Corporation\\Update Core\\NvTmRep.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\PP助手5.0\\lu.exe",
+            "block":false
+        },
+        {
             "procname":"C:\\Program Files (x86)\\SecoClient\\serviceclient\\SecoClientCS.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Teleport Ultra\\ultra.exe",
             "block":false
         },
         {
@@ -35,7 +259,23 @@
             "block":true
         },
         {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMDeskTopGC.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\qmdl.exe",
+            "block":false
+        },
+        {
             "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMEventLogReporter.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMLspPing.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QMUpdate\\QQPCMgrUpdate.exe",
             "block":true
         },
         {
@@ -59,7 +299,15 @@
             "block":true
         },
         {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\QQRepair.exe",
+            "block":true
+        },
+        {
             "procname":"C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.5.20525.234\\TpkUpdate.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYCloud.exe",
             "block":true
         },
         {
@@ -67,7 +315,83 @@
             "block":true
         },
         {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYFaceManager.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYLiveUp.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYService.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYTask.exe",
+            "block":true
+        },
+        {
             "procname":"C:\\Program Files (x86)\\Tencent\\QQPinyin\\6.5.6103.400\\QQPYUserCenter.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\WeChat\\WeChat.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\WeChat\\WeChatApp.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\MiniThunder\\Bin\\ThunderMini.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\BHO\\BHOInstall.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\InstallXLGuard.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\resources\\bin\\SDK\\DownloadSDKServer.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\resources\\bin\\TBC\\xlbrowsershell.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\thunder.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\XLServicePlatform.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Wondershare\\PDF Expert\\PDFelement.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\XMind\\XMind.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Yinxiang Biji\\印象笔记\\Evernote.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Beyond Compare 4\\BCompare.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Beyond Compare 4\\MutualUtil.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Bonjour\\mDNSResponder.exe",
             "block":true
         },
         {
@@ -79,15 +403,143 @@
             "block":true
         },
         {
+            "procname":"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeC2RClient.exe",
+            "block":true
+        },
+        {
             "procname":"C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
             "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\Updates\\16.0.13901.20400\\OfficeClickToRun.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\DAUM\\PotPlayer\\PotPlayerMini64.exe",
+            "block":false
         },
         {
             "procname":"C:\\Program Files\\Ditto\\Ditto.exe",
             "block":true
         },
         {
+            "procname":"C:\\Program Files\\draw.io\\draw.io.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Git\\mingw64\\bin\\curl.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Git\\mingw64\\bin\\git-lfs.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Git\\mingw64\\libexec\\git-core\\git-remote-https.exe",
+            "block":false
+        },
+        {
             "procname":"C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\iTunes\\iTunes.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\MaxTo\\MaxTo.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\MongoDB Compass\\MongoDBCompass.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Mozilla Firefox\\pingsender.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\MySQL\\MySQL Server 5.7\\bin\\mysqld.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\nodejs\\node.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Notepad++\\updater\\gup.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\NVIDIA Corporation\\Update Core\\NvProfileUpdater64.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Oracle\\VirtualBox\\VirtualBoxVM.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\PowerToys\\PowerToys.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\PowerToys\\SettingsUIRunner\\Microsoft.PowerToys.Settings.UI.Runner.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files\\Quicker\\Quicker.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\ShareX\\ShareX.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Softdeluxe\\Free Download Manager\\fdm.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Typora\\Typora.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Program Files\\Zeal\\zeal.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\ProgramData\\CPPackages\\LRServer.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\PROGRA~2\\Citrix\\ICACLI~1\\WFICA32.EXE",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Flash Player\\flashplayerpp_install_cn.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Adobe\\F1A64C0E-2B58-4376-A2CB-3D7589FCDE6A\\2CDBF2B6-F9B8-45D2-A29C-7D87D4B66728\\70C294F4-1AAA-4774-BB6B-217B2145E7EB",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Apps\\Yinxiang Biji\\印象笔记\\Evernote.exe",
             "block":false
         },
         {
@@ -99,7 +551,227 @@
             "block":false
         },
         {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\JianyingPro\\Apps\\jianyingpro.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\OneDrive\\19.192.0926.0012\\FileCoAuth.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Postman\\app-6.3.0\\Postman.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Postman\\Update.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Programs\\blog-helper\\写作助手.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Programs\\QuickLook\\QuickLook.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\SourceTree\\app-3.3.8\\SourceTree.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Temp\\7zS89B709CF\\Carrier.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Wox\\app-1.4.1196\\Wox.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\Youdao\\Dict\\Application\\8.9.3.0\\YoudaoDictInstaller.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Local\\youdao\\dict\\Application\\YoudaoDict.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\baidu\\BaiduNetdisk\\AutoUpdate\\AutoUpdate.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Baidu\\BaiduNetdisk\\BaiduNetdisk.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Baidu\\BaiduNetdisk\\BaiduNetdiskHost.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Baidu\\BaiduNetdisk\\HelpUtility.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Baidu\\BaiduNetdisk\\kernelUpdate.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Baidu\\BaiduNetdisk\\YunDetectService.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Foxit Software\\Addon\\Foxit Reader\\FoxitReaderUpdater.exe",
+            "block":true
+        },
+        {
             "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\AndroidServer\\1.0.0.588\\AndroidServer.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\TIM\\STemp\\SetupEx0\\QQSetupEx.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\uTorrent\\helper\\helper.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\uTorrent\\updates\\3.5.5_45724\\utorrentie.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\uTorrent\\uTorrent.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\WeLink\\WeLink\\resources\\app\\platform\\onebox\\OneboxCloud.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\AppData\\Roaming\\WeLink\\WeLink\\WeLink.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\users\\administrator\\desktop\\warcraft3_downza.setup\\wc3_setup\\warcraft3_1.24e\\war3.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\Desktop\\万兴PDF专家PDFelement_v7.5.5.4835_简体中文绿色特别版\\PDFelement\\PDFelement.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\Administrator\\Downloads\\MicroKMS_v20.09.12_N.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\7zS89B709CF\\GenericSetup.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\7zS89B709CF\\installer.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\7zSC0ACB639\\setup.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\BCompare\\temp\\MutualUtil.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\geek64.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\OnlineInstall\\10.1.34.800\\XunLeiSetup10.1.34.800.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\psiphon-tunnel-core.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\psiphon-url-proxy.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ThunderInstall\\10.1.34.800\\SDK\\DownloadSDKServer.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\XLLiveUD\\Thunder8_10.1.28.676\\XLLiveUD.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\XLLiveUD\\Thunder8_10.1.28.676_auto\\XLLiveUD.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\XLLiveUD\\Thunder8_10.1.34.800_auto\\XLLiveUD.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\System32\\CastSrv.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\system32\\devicecensus.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\system32\\msiexec.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\system32\\mstsc.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\System32\\netsh.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\System32\\OpenSSH\\sshd.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\System32\\UNP\\UpdateNotificationMgr.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\DWWIN.EXE",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\Macromed\\Flash\\FlashHelperService.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\msiexec.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\nslookup.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\Windows\\SysWOW64\\SearchProtocolHost.exe",
             "block":true
         },
         {
@@ -107,7 +779,99 @@
             "block":true
         },
         {
+            "procname":"C:\\同花顺软件\\同花顺\\docookie.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\GLT.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\hexin.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\hexinbrowser.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\hexinhelper.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\robot\\elf.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\UserGuide.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\WeiTuoNew.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\xiadan.exe",
+            "block":false
+        },
+        {
+            "procname":"C:\\同花顺软件\\同花顺\\zdsj.exe",
+            "block":true
+        },
+        {
+            "procname":"D:\\chrome安全下载\\flashplayerpp_install_cn.exe",
+            "block":false
+        },
+        {
+            "procname":"D:\\chrome安全下载\\listen1_2.20.1_win_x64\\Listen1.exe",
+            "block":false
+        },
+        {
+            "procname":"D:\\chrome安全下载\\pconline1545976690846\\Fiddler Web Debugger\\Fiddler.exe",
+            "block":false
+        },
+        {
+            "procname":"D:\\chrome安全下载\\Snipaste-1.16.2-x64 (1)\\Snipaste.exe",
+            "block":true
+        },
+        {
+            "procname":"D:\\chrome安全下载\\XunLeiWebSetup10.1.34.800gw.exe",
+            "block":false
+        },
+        {
+            "procname":"D:\\百度网盘下载\\WePE_64_V2.1.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\foxit_GA_NoFinishPage_FoxitInst.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\mysql-8.0.25-winx64\\bin\\mysqld.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\office2016激活工具\\microKMS_v19.04.03.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\ScreenshotReader.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\tianruo_x86 (1)\\TianruoOCR.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\00application\\tianruo_x86\\TianruoOCR.exe",
+            "block":false
+        },
+        {
             "procname":"E:\\00application\\天若OCR文字识别高级解锁版-fpwsq\\OCR文字识别高级完美版.exe",
+            "block":false
+        },
+        {
+            "procname":"E:\\05video\\黑马之时\\内网通\\郑维\\赛风.exe",
             "block":false
         }
     ]
