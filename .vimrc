@@ -1,0 +1,1 @@
+/home/wuxs/A我的数据盘/06project/vimplus/.vimrc
